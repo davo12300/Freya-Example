@@ -1,0 +1,57 @@
+.container{
+
+    
+    
+    margin-right: 100px;
+    margin-left: 120px;
+    padding: 45px;
+    color: aliceblue;
+    position: static;
+    
+}
+
+h1{
+
+    text-align: center;
+}
+
+h2{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+.icon{
+
+    
+    width: 50px;
+    vertical-align: bottom;
+}
+
+
+.container__section{
+
+    
+    background: #006A58;
+    border-radius: 12px;
+    margin-top: 14px;
+    padding: 10px;
+
+}
+
+.container__section-p{
+
+    font-size: large;
+    text-align: justify;
+    border-radius: 12px;
+    margin-top: 14px;
+    padding: 10px;
+
+
+}
+
+.img-content{
+
+    margin-left: 150px;
+    width: 700px;
+}
